@@ -5,7 +5,7 @@ import './globals.css';
 export const metadata: Metadata = {
   title: "Miller's Digital - Website Building & AI Receptionist",
   description:
-    "Premium web development and AI receptionist solutions for modern businesses. Awwwards-level creative design with cutting-edge technology.',
+    "Premium web development and AI receptionist solutions for modern businesses. Awwwards-level creative design with cutting-edge technology.",
   keywords: ['web design', 'ai receptionist', 'next.js', 'premium portfolio'],
   authors: [{ name: "Miller's Digital" }],
   openGraph: {
