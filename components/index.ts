@@ -1,0 +1,12 @@
+export { Navigation } from './navigation';
+export { HeroSection } from './hero-section';
+export { AboutSection } from './about-section';
+export { PortfolioSection } from './portfolio-section';
+export { AIReceptionistSection } from './ai-receptionist-section';
+export { ServicesSection } from './services-section';
+export { ContactSection } from './contact-section';
+export { Footer } from './footer';
+export { CanvasScrollAnimation } from './canvas-scroll-animation';
+export { ThemeToggle } from './theme-toggle';
+export { ThemeProvider } from './theme-provider';
+export { AdminProtection } from './admin-protection';
